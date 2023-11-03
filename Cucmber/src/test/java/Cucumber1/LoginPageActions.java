@@ -32,7 +32,6 @@ public class LoginPageActions {
 	public void Login(String strUsername, String strPassword) {
 		setUserName(strUsername);
 		setPassword(strPassword);
-	
 	}
 }
 
