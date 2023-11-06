@@ -1,0 +1,7 @@
+[INFO ] 2023-11-06 15:28:34.245 [main] TestLogger - Implicit wait applied for 10 seconds
+[INFO ] 2023-11-06 15:32:59.048 [main] TestLogger - Implicit wait applied for 10 seconds
+[INFO ] 2023-11-06 15:33:04.354 [main] TestLogger - Implicit wait applied for 10 seconds
+[INFO ] 2023-11-06 15:36:12.159 [main] TestLogger - Implicit wait applied for 10 seconds
+[INFO ] 2023-11-06 15:37:18.243 [main] TestLogger - Implicit wait applied for 10 seconds
+[INFO ] 2023-11-06 15:37:23.084 [main] TestLogger - Logged into Myntra
+[INFO ] 2023-11-06 15:37:23.915 [main] TestLogger - Quitting the driver
